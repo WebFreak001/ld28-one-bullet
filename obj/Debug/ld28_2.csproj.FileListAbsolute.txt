@@ -1,0 +1,12 @@
+D:\Documents\visual studio 2013\Projects\LudumDare\ld28_2\bin\Debug\ld28_2.exe.config
+D:\Documents\visual studio 2013\Projects\LudumDare\ld28_2\obj\Debug\ld28_2.csprojResolveAssemblyReference.cache
+D:\Documents\visual studio 2013\Projects\LudumDare\ld28_2\obj\Debug\ld28_2.Properties.Resources.resources
+D:\Documents\visual studio 2013\Projects\LudumDare\ld28_2\obj\Debug\ld28_2.csproj.GenerateResource.Cache
+D:\Documents\visual studio 2013\Projects\LudumDare\ld28_2\bin\Debug\ld28_2.exe
+D:\Documents\visual studio 2013\Projects\LudumDare\ld28_2\bin\Debug\ld28_2.pdb
+D:\Documents\visual studio 2013\Projects\LudumDare\ld28_2\bin\Debug\sfmlnet-audio-2.dll
+D:\Documents\visual studio 2013\Projects\LudumDare\ld28_2\bin\Debug\sfmlnet-graphics-2.dll
+D:\Documents\visual studio 2013\Projects\LudumDare\ld28_2\bin\Debug\sfmlnet-window-2.dll
+D:\Documents\visual studio 2013\Projects\LudumDare\ld28_2\obj\Debug\ld28_2.exe
+D:\Documents\visual studio 2013\Projects\LudumDare\ld28_2\obj\Debug\ld28_2.pdb
+D:\Documents\visual studio 2013\Projects\LudumDare\ld28_2\obj\Debug\ld28_2.Launcher.resources

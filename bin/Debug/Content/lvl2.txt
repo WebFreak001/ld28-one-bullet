@@ -1,0 +1,23 @@
+20
+20
+b
+bbbbbbbbbbbbbbbbbbbb
+bE                 b
+bbbbbbbbbbbbbbbb b b
+b                b b
+b bbbbbbbbbbbbbbbb b
+b bb             b b
+b bb bbbbbbbbbbb b b
+b    b        bb b b
+bbbbbb bbbbbb    b b
+b      b  L bbbbbb b
+b bbbbbbF   G      b
+b      b  L bbbbbbbb
+bbbbbb bbbbbbbbbbbSb
+b    b           b b
+b bb bbbbbbbbbbb b b
+b bb bbbbbbbbbbb b b
+b bb             b b
+b bbbbbbbbbbbbbbbb b
+b                  b
+bbbbbbbbbbbbbbbbbbbb
